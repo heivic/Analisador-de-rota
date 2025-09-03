@@ -4,7 +4,7 @@ import { useState } from "react"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Calculator, Clock, Truck, BarChart3, PieChart } from "lucide-react"
 import RouteCalculator from "@/components/route-calculator"
-import ProfitabilityDashboard from "@/components/profitability-dashboard"
+import ProfitabilityDashboard from "@/components/main"
 import RouteHistory from "@/components/route-history"
 import RouteComparison from "@/components/route-comparison"
 
